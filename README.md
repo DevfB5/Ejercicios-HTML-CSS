@@ -1,7 +1,7 @@
 # Proyecto: Blog
 En este proyecto pondrás en práctica tus conocimientos de HTML y CSS para crear una simple página web que cumpla ciertos requisitos. Este proyecto está diseñado para que aprendas a buscar cómo hacer nuevas cosas. Hay un total de 3 iteraciones.
 
-El blog va a tener una serie de características que tiene que cumplir. Va a tener una imagen hasta arriba en la página, una sección principal que tendrá dos artículos, y una barra lateral. En cada iteración pondrás una serie de características
+El blog va a tener una serie de características que tiene que cumplir. Va a tener una imagen hasta arriba en la página, una sección principal que tendrá dos artículos, y una barra lateral. En cada iteración harás nuevas cosas y cada vez se verá mejor. ¡No te desmotives!
 
 Ejemplos (no se basen en el código de estas páginas, dado que esas se hacen automáticas, pero es para que tengan una mejor idea de la estructura de lo que van a hacer).
 * http://hyperboleandahalf.blogspot.com/ 
