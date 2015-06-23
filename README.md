@@ -29,7 +29,8 @@ Ejemplos (no se basen en el código de estas páginas, dado que esas se hacen au
 ## Tercera Iteración
 1. Intenta poner un footer dentro de cada artículo y pon la fecha en la que se escribió.
 2. Pon una imagen pequeña completamente circular en algún lado, tal vez en el artículo para poner la imagen del que escribió el artículo o en el footer. 
-3. Ahora experimenta y que tu página se vea lo mejor posible :D
+3. Agrega dos links en tu barra lateral (una para cada artículo). Cuando clickeas en el link, te debe enviar a esa sección de la página.
+4. Ahora experimenta y que tu página se vea lo mejor posible :D
 
 
 ## Otras cosas que puedes hacer
