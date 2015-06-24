@@ -10,7 +10,7 @@ Ejemplos (no se basen en el código de estas páginas, dado que esas se hacen au
 
 ## Primera Iteración
 
-1. Crea el archivo html y connéctalo con el archivo css. Asegúrate que estén bien conectados.
+1. Crea el archivo html y conéctalo con el archivo css. Asegúrate que estén bien conectados.
 2. Primero crearemos la cabezera. Busca alguna imagen y ponla en la cabezera. Por ahora sólo asegúrate que sea ancha pero no muy alta.
 3. Crea una lista de links que servirá como barra de navegación.
 4. Crea una sección principal en la que van a haber dos artículos. Agrega un título a cada uno de los artículos
