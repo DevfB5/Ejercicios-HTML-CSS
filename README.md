@@ -35,7 +35,7 @@ Ejemplos (no se basen en el código de estas páginas, dado que esas se hacen au
 
 ## Retos
 1. Prueba a poner un video en algún artículo
-2. Pon un área en el que el usuario pueda poner su nombre y contraseña (y que salgan asteríscos) y un botón para hacer el login. Busca cómo hacer validación sencilla (HTML: <input type="email" required> y CSS: input[type="email"]:valid {} ) Intenta que se vea verde si tiene @ o rojo si no es válido
+2. Pon un área en el que el usuario pueda poner su nombre y contraseña (y que salgan asteríscos) y un botón para hacer el login. Busca cómo hacer validación sencilla (HTML: input type="email" required (ciérralo con <>)y CSS: input[type="email"]:valid {} ) Intenta que se vea verde si tiene @ o rojo si no es válido
 3. Si usas tamaños con pixeles, prueba con porcentajes y qué pasa cuando cambias el tamaño de la página. Intenta que tu página se vea decente en celular.
 4. Anda a https://www.google.com/fonts y busca una fuente que te gusta. Investiga cómo agregarla a tu página y pon una segunda fuente de respaldo.
 5. En tu artículo intenta que haya palabras en negritas o italizadas.
